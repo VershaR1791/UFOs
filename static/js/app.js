@@ -2,7 +2,7 @@
 const tableData = data;
 
 // Reference the HTML table using D3
-var today = d3.select("tbody");
+var tbody = d3.select("tbody");
 
 //simple Javascript console.log statement
 function printHello() {
